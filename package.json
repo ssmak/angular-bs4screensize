@@ -1,5 +1,5 @@
 {
-  "name": "angular-bs4screensize.git",
+  "name": "angular-bs4screensize",
   "version": "1.2.0",
   "description": "Get breakpoints information in Angular based on Bootstrap 4.",
   "main": "index.js",
