@@ -20,16 +20,16 @@ var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol
           var getWindowWidth = function getWindowWidth() {
             return bs4ScreenSize.getWidth();
           };
-          if (getWindowWidth() > bs4ScreenSize.breakPoint.sm) {
+          if (getWindowWidth() >= bs4ScreenSize.breakPoint.sm) {
             screenSize = 'sm';
           }
-          if (getWindowWidth() > bs4ScreenSize.breakPoint.md) {
+          if (getWindowWidth() >= bs4ScreenSize.breakPoint.md) {
             screenSize = 'md';
           }
-          if (getWindowWidth() > bs4ScreenSize.breakPoint.lg) {
+          if (getWindowWidth() >= bs4ScreenSize.breakPoint.lg) {
             screenSize = 'lg';
           }
-          if (getWindowWidth() > bs4ScreenSize.breakPoint.xl) {
+          if (getWindowWidth() >= bs4ScreenSize.breakPoint.xl) {
             screenSize = 'xl';
           }
 
