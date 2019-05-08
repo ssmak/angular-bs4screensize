@@ -1,7 +1,7 @@
 {
   "name": "angular-bs4screensize",
   "version": "1.2.2",
-  "description": "Get breakpoints information in Angular based on Bootstrap 4.",
+  "description": "Get breakpoints information in AngularJS based on Bootstrap 4.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/ssmak/angular-bs4screensize.git"
   },
-  "keywords": [],
+  "keywords": ['angularjs', 'bootstrap', 'bootstrap4', 'screen size', 'breakpoint', 'media query'],
   "author": "",
   "license": "MIT",
   "bugs": {
