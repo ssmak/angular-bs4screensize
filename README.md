@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ssmak/angular-bs4screensize">
-    <img src="https://img.shields.io/badge/version-v1.2.3-blueviolet.svg" />
+    <img src="https://img.shields.io/badge/version-v1.2.4-blueviolet.svg" />
   </a>
   <a href="https://www.npmjs.com/package/angular-bs4screensize">
     <img src="https://img.shields.io/badge/env-angularjs-orange.svg" />
@@ -14,7 +14,7 @@
 <br />
 
 ## History
-Get breakpoint information in Angular controller.
+Get breakpoints information in AngularJS controller.
 <br />
 <div align="center">
   <a href="https://paypal.me/ssmak">
