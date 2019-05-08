@@ -10,7 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/ssmak/angular-bs4screensize.git"
   },
-  "keywords": ['angularjs', 'bootstrap', 'bootstrap4', 'screen size', 'breakpoint', 'media query'],
+  "keywords": [
+    "angularjs",
+    "bootstrap",
+    "bootstrap4",
+    "screen size",
+    "breakpoint",
+    "media query"
+  ],
   "author": "",
   "license": "MIT",
   "bugs": {
